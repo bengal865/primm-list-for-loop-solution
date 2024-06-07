@@ -1,4 +1,5 @@
-# 
+# candy_list = ["Snickers", "Twix", "M&M's", "Starburst", "Lollipop"]
+# total_candy = 0
 
 # This part of the code is missing!  What do you think it will do?
 
