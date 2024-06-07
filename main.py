@@ -1,4 +1,4 @@
-# candy_list = ["Snickers", "Twix", "M&M's", "Starburst", "Lollipop"]
+# candy_list = ["Snickers", "Twix", "Butterfinger", "Starburst", "Gummi Bears"]
 # total_candy = 0
 
 # Part of the code in the FOR loop is missing!  
